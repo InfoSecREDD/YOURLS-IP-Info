@@ -1,7 +1,6 @@
 <?php
 /*
 Plugin Name: IP Information
-Plugin URI: https://github.com/tacoded/YOURLS-IP-Click-Detail
 Description: Shows comprehensive IP address details including geolocation, ISP, VPN detection, bot detection with filtering
 Version: 1.9
 Author: InfoSecREDD
